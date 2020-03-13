@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!-- JNLP File for Trading Client Application -->
+<jnlp spec='1.0+' codebase='https://dbo.rusfinance.ru/cust/'>
+    <information>
+        <title>MWIClient</title>
+        <vendor>Magic World, ltd</vendor>
+        <homepage href='https://dbo.rusfinance.ru/client.html'/>
+        <description>Клиент для юридических лиц</description>
+        <offline-allowed/>
+    </information>
+    <security>
+        <all-permissions/>
+    </security>
+    <resources>
+        <property name="jnlp.packEnabled" value="true"/>
+        <j2se version='1.*'/>
+        <jar href='MWIClient.jar'/>
+    </resources>
+    <application-desc main-class='com.mworld.ClientApplet.class' name='MW Client Runner'>
+        <argument>servurl=https://dbo.rusfinance.ru/MWCProcessor/</argument>
+        <argument>codebase=https://dbo.rusfinance.ru/</argument>
+        <argument>homepage=https://dbo.rusfinance.ru/client.html</argument>
+        <argument>ocrypt=1</argument>
+        <argument>noeditpass=0</argument>
+    </application-desc>
+</jnlp>

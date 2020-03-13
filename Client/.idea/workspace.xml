@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="7cc7aff2-c974-45bd-99c2-5717c0e728e6" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectId" id="1YkDv7DCprgGzrglgRUnPfhnie7" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+    <option name="showMembers" value="true" />
+    <option name="showVisibilityIcons" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="7cc7aff2-c974-45bd-99c2-5717c0e728e6" name="Default Changelist" comment="" />
+      <created>1583477925562</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1583477925562</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="-1368" y="182" key="#Project_Structure" timestamp="1583477997667">
+      <screen x="-1920" y="1" width="1920" height="1040" />
+    </state>
+    <state x="-1368" y="182" key="#Project_Structure/0.0.1920.1040/-1920.1.1920.1040@-1920.1.1920.1040" timestamp="1583477997667" />
+    <state x="-1506" y="179" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1583477988988">
+      <screen x="-1920" y="1" width="1920" height="1040" />
+    </state>
+    <state x="-1506" y="179" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1040/-1920.1.1920.1040@-1920.1.1920.1040" timestamp="1583477988988" />
+    <state x="708" y="330" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1583478969155">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="708" y="330" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1920.1040/-1920.1.1920.1040@0.0.1920.1040" timestamp="1583478969155" />
+  </component>
+</project>

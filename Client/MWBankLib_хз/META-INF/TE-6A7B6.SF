@@ -1,0 +1,316 @@
+Signature-Version: 1.0
+SHA-256-Digest-Manifest-Main-Attributes: D8lTu5HIrCCyr5B33VCMSovRJES1e
+ uSDSBQPrIuhwbI=
+SHA-256-Digest-Manifest: OYWexxRVeVaopSnNFWNDyhSSHEqkVTXhP+5Qg6Rom0c=
+Created-By: 1.8.0_66 (Oracle Corporation)
+
+Name: org/bulatnig/smpp/pdu/impl/EnquireLinkResp.class
+SHA-256-Digest: EycCT9xe4VGJ3c+bVVVBcPm45Q02ERlv9kgpcBvirc0=
+
+Name: org/bulatnig/smpp/util/TerminatingNullNotFoundException.class
+SHA-256-Digest: 46YOa/NMtPI9wQB96PCEkMT3pRYbnCgISa461e1JQSI=
+
+Name: org/bulatnig/smpp/pdu/impl/GenericNack.class
+SHA-256-Digest: Gm2zOsVjANAQToSbFDgJhfGSw2A86FDvUKXdzu/06QM=
+
+Name: com/mworld/dbutil/PBaseSelector.class
+SHA-256-Digest: FtvrMkdiLOS+M9FS57NGwmOeLuwcScXQs3IULyHF9Ec=
+
+Name: com/mworld/jce/provider/ECGOSTPublicKey.class
+SHA-256-Digest: S53ZUnbTzyQz53yUVYAWfpKmMvpOJo06nepO38qxS7c=
+
+Name: org/bulatnig/smpp/session/impl/BasicSession$ReadThread.class
+SHA-256-Digest: sHKeBG+ZgwYinQ1OxM38THub5E1gsdBN3i4d+QY2NGk=
+
+Name: org/bulatnig/smpp/pdu/impl/Unbind.class
+SHA-256-Digest: RNU4ZiPmRccoPGhweLhzBRcTk2AUnfvcaZUMiT8QgRo=
+
+Name: com/mworld/util/CryptoPro.class
+SHA-256-Digest: /WxmyL0Ype3hFArun95ac3ST9DLfFCaZ6zvqqjx5jM8=
+
+Name: org/apache/xmlrpc/webserver/XmlRpcServlet.properties
+SHA-256-Digest: 62n7nyTAVodAIc76pbMBvco/ZNs2DJom975p8niLKkI=
+
+Name: org/bulatnig/smpp/pdu/impl/BindTransmitterResp.class
+SHA-256-Digest: ju1Op0puFmDH/g7fFaZsbcgO72qmfa5O5Gg6Upf4U5s=
+
+Name: org/bulatnig/smpp/pdu/impl/SubmitSmResp.class
+SHA-256-Digest: 0HxyzFV1ihBqbdTq0ZBQFdoE2DraNLoZAQgCNfhWpwM=
+
+Name: com/mworld/jce/provider/MWDSAPublicKey.class
+SHA-256-Digest: r3inEEhOSeJAnhAi27in5DZ/CRNd/lH8zr5Gw5flvPM=
+
+Name: org/bulatnig/smpp/session/impl/LimitingSession.class
+SHA-256-Digest: Qu4fQwy+BkPqW43XJEDTxIzpwutRMoM/dMqzWL+5Meo=
+
+Name: com/mworld/dbutil/DBFind.class
+SHA-256-Digest: QH+40J0mUiwLCgJO8uVijNmbF8ZpF6A/f5JCHQ1QRTw=
+
+Name: org/bulatnig/smpp/pdu/impl/BindReceiver.class
+SHA-256-Digest: gUNDIDDIzAKv5fRMoqd0M4UjXX27yaYVgZqIoB/e+Wg=
+
+Name: com/linuxnet/jpcsc/Apdu$Format.class
+SHA-256-Digest: ofE0SwUK+AS/LhcjKV1GsYbaJQf6wEjWGw/11Inc3jg=
+
+Name: com/mworld/util/ChFlags.class
+SHA-256-Digest: CFzteyRmZRvhHLpgo9RxiobRc//A9oLJ1dxzMuo/qv4=
+
+Name: com/mworld/util/ECGOST_Digest.class
+SHA-256-Digest: ObFKYatcq334t1TdzbZzwFs42uCXOyTopc8hLioQv/w=
+
+Name: com/mworld/util/MWSPacker.class
+SHA-256-Digest: Ca+RhDo3tHVSRvsHzRZJGvHmIGTLZ2I7bf7Y7bmIG7Q=
+
+Name: com/linuxnet/jpcsc/Apdu$Wrapper.class
+SHA-256-Digest: g0WbTsnS8nvRox4WlZ2oijIjuDglBqS/PI49rnqW7t4=
+
+Name: com/mworld/dbutil/DBLo.class
+SHA-256-Digest: V+GiifRUNtbAVgHLK45c4A21WaBvAKXEBo/W2rPgy+E=
+
+Name: com/mworld/ie/IEC$1.class
+SHA-256-Digest: nEcLVkOjaJT/sJVU4ql8relm/cpsyc1L1ytNKgMTDm4=
+
+Name: org/bulatnig/smpp/pdu/impl/QuerySmResp.class
+SHA-256-Digest: RkJl5K9NyBRSnF51OsUTom9T+pJbstE+TMMXs47B7mM=
+
+Name: com/mworld/util/QProc.class
+SHA-256-Digest: i7yapooCUyNYYDk6IzYgVA365WlfuhQPHG6HqDMntps=
+
+Name: com/mworld/dbutil/PooledConnection.class
+SHA-256-Digest: 3YT+kegL35RySE7Nmq4pfRSypusg3QbKjOq1wf3iGcQ=
+
+Name: org/bulatnig/smpp/session/Session.class
+SHA-256-Digest: b/eks3Xx5HGxJQ8Iy9iVPrn/KtmfDSphJBaW71MFFzc=
+
+Name: com/mworld/ie/SumProp.class
+SHA-256-Digest: bu0AX0Hk77KqPlReMRZGu82VKSntTV2xI1y1erC0MkY=
+
+Name: org/bulatnig/smpp/pdu/Pdu.class
+SHA-256-Digest: dlvMYC62cEjYJbsIIjiVz1Let0QIGkOXZm2Wywjekm0=
+
+Name: org/bulatnig/smpp/pdu/impl/SmscDeliveryReceipt.class
+SHA-256-Digest: S5+Q17B84bPzZ553V3ZErUG1ok7dfvvZunMtG6aLcg8=
+
+Name: org/bulatnig/smpp/pdu/impl/BindTransceiver.class
+SHA-256-Digest: 7xrPjFpNunnzqJqOI9PN+doodynptYFCqiWX1miwwqs=
+
+Name: org/bulatnig/smpp/pdu/impl/SubmitSm.class
+SHA-256-Digest: ADCxrm4tcQhAP50UciqlU3NaX8903Qth/vV9Ot0jA0o=
+
+Name: com/mworld/util/MWHashtable.class
+SHA-256-Digest: xmwkSiMpfTMOwLu4f1+V6tiLzOkx8q0Ui2xv4n9Lxgs=
+
+Name: org/bulatnig/smpp/pdu/impl/AlertNotification.class
+SHA-256-Digest: f5Fn0jSvNZWFipPn9xBz9MwxfZAIfdVqGEw4aiAASEU=
+
+Name: org/bulatnig/smpp/util/ByteBuffer.class
+SHA-256-Digest: /SWiqAJhBzdZQzBz0voEywlazUdePon2kQuC0E2ixZ4=
+
+Name: com/mworld/util/MyConfig.class
+SHA-256-Digest: vyGYYox5G3g5kDOZIwdRo0TGcPJMwx9KuGDHJdm9s7Q=
+
+Name: com/mworld/ie/IEC.class
+SHA-256-Digest: 1yQhyTfv6WaGP2XUX2FnKX1OXkhyLjR3OdCI7uoxUrU=
+
+Name: com/mworld/util/RSMeta.class
+SHA-256-Digest: JKkhXTPyLVUfrh6ea5/EivqnN3iWagEm0fSALtFFgkY=
+
+Name: org/bulatnig/smpp/pdu/tlv/Tlv.class
+SHA-256-Digest: akYQFkdX4sh51NNwxXrbf+wPDj4VJf5WgtZaRmLGNwA=
+
+Name: org/bulatnig/smpp/pdu/tlv/TlvParser.class
+SHA-256-Digest: uV6yWNss/ENbLuAPWA85QrWo9Ag2eZCf5KGGWNFET/Q=
+
+Name: org/bulatnig/smpp/pdu/impl/DeliverSm.class
+SHA-256-Digest: aenjD5ZbpdNI10Ni1M5G9T3vnuTLxtQb+koQd4DyJME=
+
+Name: org/bulatnig/smpp/pdu/tlv/DefaultTlvParser.class
+SHA-256-Digest: 4649qhtM9jhScskE2u+Ou6RF+nQRAzYnYadGv0BE4g8=
+
+Name: org/bulatnig/smpp/session/impl/BasicSession$DefaultSessionListen
+ er.class
+SHA-256-Digest: HqOoRisHY2NcQSbYtx8gPWm1jSeUGSv8N0yRboxfowo=
+
+Name: org/bulatnig/smpp/pdu/CommandStatus.class
+SHA-256-Digest: glsI0IfTHX7gWBtdY8c/mMlQZPGd8sh1qdsWFgPhFKk=
+
+Name: com/linuxnet/jpcsc/Apdu.class
+SHA-256-Digest: 4mZypaUFJ0AIHsSdTnCnKSupPZ/lIvVwGYS2wfnSszQ=
+
+Name: com/mworld/util/SendAlertProcessing.class
+SHA-256-Digest: Oz7vdX7g+hxZioD3XJct5nW1Al8FHAgKrYVTIYhGesQ=
+
+Name: com/mworld/jce/provider/PKCS12BagAttributeCarrierImpl.class
+SHA-256-Digest: oVGhOfV2zx+VcEDnBUgUNR4QiqiawO8h3r0WaRUgnek=
+
+Name: org/bulatnig/smpp/pdu/impl/DeliverSmResp.class
+SHA-256-Digest: JROLuBkPhFbUDn6tYz55IZUnJzpafae9xmV2XVCyY6I=
+
+Name: org/bulatnig/smpp/pdu/impl/BindReceiverResp.class
+SHA-256-Digest: 8mU6wEo+Wcp4eFuLa5xv+Ii2ytToaHtGay9BAD406mw=
+
+Name: com/mworld/dbutil/DBMeta.class
+SHA-256-Digest: RWKtGW1HUITNQd1bh136czjJbkFqR22++pU0iOwKu7o=
+
+Name: com/mworld/dbutil/DBTemplate.class
+SHA-256-Digest: s/X8myHmQC6NxNnfPAJZZwmBGXM++nl2I6WuZnLugbg=
+
+Name: org/bulatnig/smpp/pdu/PduException.class
+SHA-256-Digest: FOUxjdvdgCQJXaHL1I9JPAHK52WeyUfDSRuGfCYE8zQ=
+
+Name: org/bulatnig/smpp/pdu/tlv/TlvException.class
+SHA-256-Digest: BK+pGcH6pig428AZDarCLS/+nmvwlB1Xw466Pxivweg=
+
+Name: com/mworld/util/NativeCpcsp.class
+SHA-256-Digest: nCb6Fa8p6g10hp8Dxq+qsOycCc1Ir+0Pl6dScgdF+v8=
+
+Name: com/mworld/dbutil/DBFillInfo.class
+SHA-256-Digest: BDE7tDT/5UrDNJAwFQbghI2kYk6XpUH8LAsobU5Jx0g=
+
+Name: com/mworld/ie/IE1.class
+SHA-256-Digest: SwWAA6RiGFMC//NEmwalXcEJHH9c7ZH5dnxeQ4bZH/o=
+
+Name: com/mworld/dbutil/DBMeta$MWMeta.class
+SHA-256-Digest: am9hAx9QVMR7dn2Ll/iZQkYfJuJTtwD113+fNcZPXSs=
+
+Name: org/bulatnig/smpp/SmppException.class
+SHA-256-Digest: 5MnWvxWnEOVtlJHMhXAluXV5JJYrWsnOUI+tTjKHDs8=
+
+Name: org/bulatnig/smpp/pdu/tlv/impl/TlvImpl.class
+SHA-256-Digest: nSLcHzTyB7bJH9tqDqwZgJNEYjne/vcwRf7W8avtT+o=
+
+Name: org/bulatnig/smpp/pdu/Ton.class
+SHA-256-Digest: JnzceB9allQsNbEOBq8ga9Z+Z+UlKE5AMIJGdgWv2C0=
+
+Name: org/bulatnig/smpp/session/impl/BasicSession.class
+SHA-256-Digest: QB5qtEuXpO5He+oiIrdhN4KefPV8PoR1VCDh5F+KIGs=
+
+Name: com/mworld/dbutil/DBAutoNumber.class
+SHA-256-Digest: ncTYW3KJ4KOXZJW/qSZZYPG/KmAeo6o70fyx3wvHbUg=
+
+Name: org/bulatnig/smpp/pdu/PduParser.class
+SHA-256-Digest: frBM62vA4It7+hSXZi+bMZo6AtMbOydtPKH2qaZgMTo=
+
+Name: org/bulatnig/smpp/pdu/impl/BindTransmitter.class
+SHA-256-Digest: DXZ2c51SRJPUyBFJ8HHmk6O7RcDpg26AY4xFElmY2G0=
+
+Name: com/mworld/util/RequestInitializableRequestProcessor.class
+SHA-256-Digest: w8JDjk4VLu6H8aj34eM8tAE1i3csFjKsOXWqF37tBxE=
+
+Name: org/bulatnig/smpp/pdu/impl/QuerySm.class
+SHA-256-Digest: 1pTQyi0NV6hO8kKSAG2+n8m7uonrC7qyDbFNomKBaDA=
+
+Name: org/bulatnig/smpp/pdu/tlv/ParameterTag.class
+SHA-256-Digest: 33q912POVb6nZYCn8GPTQzOTaa5Q6LxmSvzS9xy7alM=
+
+Name: com/mworld/ie/SrvCalcClass.class
+SHA-256-Digest: 6lchL66zMynj5N7wcADuljwVQLCRyC9wj3xBWn2ulGk=
+
+Name: org/bulatnig/smpp/pdu/impl/EnquireLink.class
+SHA-256-Digest: qoQisj1TX0GgdKgn/Eliu/22z+Ru+rU4/4zwQMWf054=
+
+Name: com/mworld/util/ResourceLoader.class
+SHA-256-Digest: /MoV/wR2nNpJZ2+COUlDK6G/AVIdoXpl2H2NJPFrr10=
+
+Name: org/bulatnig/smpp/net/impl/TcpConnection.class
+SHA-256-Digest: TItVEnuLPaM9GUXH9OY2iMjGexS91ieADwPxh5srVWc=
+
+Name: org/bulatnig/smpp/pdu/impl/AbstractPdu.class
+SHA-256-Digest: NI6P3uY6W7y94zyVTULw+VCWpAQHKYXlGyJsR/ccIqg=
+
+Name: org/bulatnig/smpp/session/impl/BasicSession$1.class
+SHA-256-Digest: yrEAjxhyVcvSCzV+cnk0QgG7UUTsFfsR1faati52dAE=
+
+Name: com/mworld/util/GostEncryptOutputStream.class
+SHA-256-Digest: rxlUcKamwAaXxvzIK3XMgJ9k7LV033H6e8ZYWboWVKk=
+
+Name: org/bulatnig/smpp/net/Connection.class
+SHA-256-Digest: ydSwGLM4dUgdx3SkT9BegrbtJ3KHbmCgcc7zchsxLEw=
+
+Name: com/mworld/util/MWServletCommons.class
+SHA-256-Digest: iRKCleqTnu5S8n4ykeWXbBHH6MMXKPURcMh4EYm+H1M=
+
+Name: org/bulatnig/smpp/pdu/impl/UnbindResp.class
+SHA-256-Digest: zOV51Dg6evprww2EfqvM+FYbpt7e92i7jgsIqhBCYxk=
+
+Name: com/mworld/jce/provider/ECGOSTPrivateKey.class
+SHA-256-Digest: 1LSTJCUXQzX0G4EUydcDnHJ3oL8b12EZkFBfJ+AM7So=
+
+Name: com/mworld/util/SIniFile.class
+SHA-256-Digest: 1C8g35FlqEyugHkZNr3YaD9noco+Rz1VyvcMD7TTrh8=
+
+Name: com/mworld/util/SendAlertProcessing$1.class
+SHA-256-Digest: gtTw0DHM3VgUGSz7n3xTkypk7bybiamzZyiU6m0yq18=
+
+Name: com/mworld/dbutil/PBase.class
+SHA-256-Digest: xI/azPKJVfbHnmtINx34QUkULmowzINmQREDDCuP+Yo=
+
+Name: com/mworld/util/ELogger.class
+SHA-256-Digest: cau+GJesY5cNfcrSsR8kT+vHQH24MC7ORnf/L7ecqPw=
+
+Name: com/mworld/util/OTPKeys.class
+SHA-256-Digest: W/+0686j7AqRmCeMHqijeajHfi9sqhAlveR60/F27Ww=
+
+Name: com/mworld/dbutil/DBInsert.class
+SHA-256-Digest: WyIXQusygXCDGpqsYx8/H9SyEy+elS5KV7cUom98I3E=
+
+Name: com/mworld/dbutil/DBRow.class
+SHA-256-Digest: 0z1tXIQab8IiUQKvVgGkTAJ3t0KvZZjwfYhmT7kDFEs=
+
+Name: com/mworld/util/DMs$1.class
+SHA-256-Digest: O2O00GYhnAMrhbFHmOMa+mrwlwrEoSHgzZbVX8xkn+8=
+
+Name: com/mworld/util/ECGOST_Signer.class
+SHA-256-Digest: mFbJSTM2B2KGJHBb/2ov3vVi3ILShgPTVLoAb8cWhpM=
+
+Name: com/mworld/dbutil/PooledBases.class
+SHA-256-Digest: ECYUW9+Df0iv2xvT9PY+DZ2UKENB4CCIWj/MVgVcc6w=
+
+Name: com/mworld/util/MWHashtableServ.class
+SHA-256-Digest: WAnxuwRlOiblV3/N6TOVS7DY9gHF/u4LEQUBFSDnjcs=
+
+Name: com/mworld/util/SendAlertProcessing$2.class
+SHA-256-Digest: GO9TIeeRibivv7s7NE874rR0eZrTYrkNVSVLAsfBgdo=
+
+Name: org/bulatnig/smpp/pdu/CommandId.class
+SHA-256-Digest: YV6gfgU5x9RJmfOawncsD7U6jk44ib22umGSj0kRCCw=
+
+Name: com/mworld/util/GostDecryptInputStream.class
+SHA-256-Digest: qRdSQ9Uxz56DF/TFK1eWgB/RWU3sr9kQG8zEVpxIwaE=
+
+Name: com/mworld/util/WLogs.class
+SHA-256-Digest: dQfpsSDuYsriGTzHQosKEQUDdaMsSNOfAYNoxTMQEeY=
+
+Name: com/mworld/util/AccountUtil.class
+SHA-256-Digest: rawBkHGy4r+7QDcaAQS2zEcTT3zpyt8dUatze4TMdY4=
+
+Name: com/mworld/ie/DBQMake.class
+SHA-256-Digest: 1+IjWs0ioZcxVGqmXbQElnATfCggL1ndYR/Ouk1ycIk=
+
+Name: com/mworld/util/Configtbl.ini
+SHA-256-Digest: kpNcKF6B4+14KnSX7stG5qlU6EHwLyFHzyrSRZWOMe4=
+
+Name: com/mworld/util/DMs.class
+SHA-256-Digest: 8BSMXqFv+lKpCS61YTC4us5WM+nfSOdiuyMpMjbgncU=
+
+Name: org/bulatnig/smpp/session/SessionListener.class
+SHA-256-Digest: ZWrr8XTZv14yo8EOQFQsofSFolOV0rbPIjbEDtC8doQ=
+
+Name: org/bulatnig/smpp/pdu/impl/DefaultPduParser.class
+SHA-256-Digest: znNRBdf4scl8Eyp0us8ZbOplQdCsgqCN2KK14vFKlgU=
+
+Name: com/mworld/util/ECGOST_Util.class
+SHA-256-Digest: X03Ynznj5U1a3wZ1Iy/JaCjDGC/jY+45011X/HRfSFg=
+
+Name: org/bulatnig/smpp/pdu/Npi.class
+SHA-256-Digest: aBKOHEBoLZb1SbdElYz47lv6SRUNvVL4dbxbrRL/11A=
+
+Name: com/mworld/dbutil/DBCheckService.class
+SHA-256-Digest: UJCLHkYc6cKD61rmilJe2mHdYiSDVpdjM5RIEGx9Utw=
+
+Name: org/bulatnig/smpp/pdu/impl/BindTransceiverResp.class
+SHA-256-Digest: oJXilSBGH1TleKeqat+jO8NN18t2ktNoqdcpvD96UyM=
+
+Name: org/bulatnig/smpp/session/impl/BasicSession$PingThread.class
+SHA-256-Digest: LG7f81TPRvWG+kTZ/pY0KVPaXHduAwyNsLGg7UmR7xo=
+
