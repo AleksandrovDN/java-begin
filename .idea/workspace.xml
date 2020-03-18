@@ -18,6 +18,9 @@
   <component name="ExternalProjectsManager">
     <system id="GRADLE">
       <state>
+        <task path="$PROJECT_DIR$/sandbox">
+          <activation />
+        </task>
         <projects_view>
           <tree_state>
             <expand>
@@ -74,13 +77,6 @@
     </key>
   </component>
   <component name="RunManager" selected="Gradle.SquareTests">
-    <configuration name="MyFirstProgram (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="MyFirstProgram" />
-      <module name="sandbox.main" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="MyFirstProgram (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ru.stqa.pft.sandbox.MyFirstProgram" />
       <module name="sandbox.main" />
@@ -94,19 +90,58 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MyFirstProgram" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="MyFirstProgram" />
-      <module name="java-begin" />
+    <configuration name="Testos" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ru.stqa.pft.sandbox.Testos" />
+      <module name="sandbox.test" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ru.stqa.pft.sandbox.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
+    </configuration>
+    <configuration name="Testosiym" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ru.stqa.pft.sandbox.Testosiym" />
+      <module name="sandbox.main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ru.stqa.pft.sandbox.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Kube" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$/sandbox" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="--tests &quot;ru.stqa.pft.sandbox.Kube&quot;" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value=":cleanTest" />
+            <option value=":test" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>false</GradleScriptDebugEnabled>
+      <method v="2" />
     </configuration>
     <configuration name="SquareTests" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
       <ExternalSystemSettings>
         <option name="executionName" />
         <option name="externalProjectPath" value="$PROJECT_DIR$/sandbox" />
         <option name="externalSystemIdString" value="GRADLE" />
-        <option name="scriptParameters" value="--tests &quot;ru.stqa.pft.sandbox.SquareTests&quot;" />
+        <option name="scriptParameters" value="--tests &quot;ru.stqa.pft.sandbox.SquareTests&quot; --stacktrace" />
         <option name="taskDescriptions">
           <list />
         </option>
@@ -124,9 +159,10 @@
     <recent_temporary>
       <list>
         <item itemvalue="Gradle.SquareTests" />
+        <item itemvalue="Application.Testosiym" />
+        <item itemvalue="Application.Testos" />
+        <item itemvalue="Gradle.Kube" />
         <item itemvalue="Application.MyFirstProgram (2)" />
-        <item itemvalue="Application.MyFirstProgram (1)" />
-        <item itemvalue="Application.MyFirstProgram" />
       </list>
     </recent_temporary>
   </component>
@@ -160,22 +196,22 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="748" y="232" key="FileChooserDialogImpl/0.0.1920.1040/-1920.1.1920.1040@0.0.1920.1040" timestamp="1584340814423" />
-    <state width="1860" height="344" key="GridCell.Tab.0.bottom" timestamp="1584437786894">
+    <state width="1860" height="294" key="GridCell.Tab.0.bottom" timestamp="1584452374759">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1860" height="344" key="GridCell.Tab.0.bottom/0.0.1920.1040/-1920.1.1920.1040@0.0.1920.1040" timestamp="1584437786894" />
-    <state width="1860" height="344" key="GridCell.Tab.0.center" timestamp="1584437786894">
+    <state width="1860" height="294" key="GridCell.Tab.0.bottom/0.0.1920.1040/-1920.1.1920.1040@0.0.1920.1040" timestamp="1584452374759" />
+    <state width="1860" height="294" key="GridCell.Tab.0.center" timestamp="1584452374759">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1860" height="344" key="GridCell.Tab.0.center/0.0.1920.1040/-1920.1.1920.1040@0.0.1920.1040" timestamp="1584437786894" />
-    <state width="1860" height="344" key="GridCell.Tab.0.left" timestamp="1584437786894">
+    <state width="1860" height="294" key="GridCell.Tab.0.center/0.0.1920.1040/-1920.1.1920.1040@0.0.1920.1040" timestamp="1584452374759" />
+    <state width="1860" height="294" key="GridCell.Tab.0.left" timestamp="1584452374759">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1860" height="344" key="GridCell.Tab.0.left/0.0.1920.1040/-1920.1.1920.1040@0.0.1920.1040" timestamp="1584437786894" />
-    <state width="1860" height="344" key="GridCell.Tab.0.right" timestamp="1584437786894">
+    <state width="1860" height="294" key="GridCell.Tab.0.left/0.0.1920.1040/-1920.1.1920.1040@0.0.1920.1040" timestamp="1584452374759" />
+    <state width="1860" height="294" key="GridCell.Tab.0.right" timestamp="1584452374759">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1860" height="344" key="GridCell.Tab.0.right/0.0.1920.1040/-1920.1.1920.1040@0.0.1920.1040" timestamp="1584437786894" />
+    <state width="1860" height="294" key="GridCell.Tab.0.right/0.0.1920.1040/-1920.1.1920.1040@0.0.1920.1040" timestamp="1584452374759" />
     <state width="1860" height="344" key="GridCell.Tab.1.bottom" timestamp="1584437786894">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -196,17 +232,20 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="659" y="108" key="SettingsEditor/0.0.1920.1040/-1920.1.1920.1040@0.0.1920.1040" timestamp="1584429615497" />
-    <state x="631" y="328" key="com.intellij.ide.util.TipDialog" timestamp="1584425097873">
+    <state x="631" y="328" key="com.intellij.ide.util.TipDialog" timestamp="1584437930110">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="631" y="328" key="com.intellij.ide.util.TipDialog/0.0.1920.1040/-1920.1.1920.1040@0.0.1920.1040" timestamp="1584425097873" />
+    <state x="631" y="328" key="com.intellij.ide.util.TipDialog/0.0.1920.1040/-1920.1.1920.1040@0.0.1920.1040" timestamp="1584437930110" />
     <state x="624" y="242" key="run.anything.popup" timestamp="1584340897487">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="624" y="242" key="run.anything.popup/0.0.1920.1040/-1920.1.1920.1040@0.0.1920.1040" timestamp="1584340897487" />
-    <state x="631" y="229" width="672" height="678" key="search.everywhere.popup" timestamp="1584429635261">
+    <state x="631" y="229" width="672" height="678" key="search.everywhere.popup" timestamp="1584440055494">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="631" y="229" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040/-1920.1.1920.1040@0.0.1920.1040" timestamp="1584429635261" />
+    <state x="631" y="229" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040/-1920.1.1920.1040@0.0.1920.1040" timestamp="1584440055494" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/java_begin$SquareTests.ic" NAME="SquareTests Coverage Results" MODIFIED="1584446435190" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
   </component>
 </project>
