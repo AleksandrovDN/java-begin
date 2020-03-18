@@ -77,7 +77,7 @@
     </key>
   </component>
   <component name="RunManager" selected="Gradle.SquareTests">
-    <configuration name="MyFirstProgram (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+    <configuration name="MyFirstProgram" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ru.stqa.pft.sandbox.MyFirstProgram" />
       <module name="sandbox.main" />
       <extension name="coverage">
@@ -90,8 +90,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Testos" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ru.stqa.pft.sandbox.Testos" />
+    <configuration name="Test_Point" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ru.stqa.pft.sandbox.Test_Point" />
       <module name="sandbox.test" />
       <extension name="coverage">
         <pattern>
@@ -116,26 +116,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Kube" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
-      <ExternalSystemSettings>
-        <option name="executionName" />
-        <option name="externalProjectPath" value="$PROJECT_DIR$/sandbox" />
-        <option name="externalSystemIdString" value="GRADLE" />
-        <option name="scriptParameters" value="--tests &quot;ru.stqa.pft.sandbox.Kube&quot;" />
-        <option name="taskDescriptions">
-          <list />
-        </option>
-        <option name="taskNames">
-          <list>
-            <option value=":cleanTest" />
-            <option value=":test" />
-          </list>
-        </option>
-        <option name="vmOptions" />
-      </ExternalSystemSettings>
-      <GradleScriptDebugEnabled>false</GradleScriptDebugEnabled>
-      <method v="2" />
-    </configuration>
     <configuration name="SquareTests" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
       <ExternalSystemSettings>
         <option name="executionName" />
@@ -156,13 +136,33 @@
       <GradleScriptDebugEnabled>false</GradleScriptDebugEnabled>
       <method v="2" />
     </configuration>
+    <configuration name="Test_Point" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$/sandbox" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="--tests &quot;ru.stqa.pft.sandbox.Test_Point&quot;" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value=":cleanTest" />
+            <option value=":test" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>false</GradleScriptDebugEnabled>
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
         <item itemvalue="Gradle.SquareTests" />
+        <item itemvalue="Application.MyFirstProgram" />
+        <item itemvalue="Gradle.Test_Point" />
         <item itemvalue="Application.Testosiym" />
-        <item itemvalue="Application.Testos" />
-        <item itemvalue="Gradle.Kube" />
-        <item itemvalue="Application.MyFirstProgram (2)" />
+        <item itemvalue="Application.Test_Point" />
       </list>
     </recent_temporary>
   </component>
@@ -192,26 +192,30 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="648" y="256" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/0.0.1920.1040/-1920.1.1920.1040@0.0.1920.1040" timestamp="1584349476209" />
+    <state x="764" y="379" width="408" height="288" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1584536168850">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="764" y="379" width="408" height="288" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.0.1920.1040/-1920.1.1920.1040@0.0.1920.1040" timestamp="1584536168850" />
     <state x="748" y="232" key="FileChooserDialogImpl" timestamp="1584340814423">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="748" y="232" key="FileChooserDialogImpl/0.0.1920.1040/-1920.1.1920.1040@0.0.1920.1040" timestamp="1584340814423" />
-    <state width="1860" height="294" key="GridCell.Tab.0.bottom" timestamp="1584452374759">
+    <state width="1860" height="294" key="GridCell.Tab.0.bottom" timestamp="1584537517813">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1860" height="294" key="GridCell.Tab.0.bottom/0.0.1920.1040/-1920.1.1920.1040@0.0.1920.1040" timestamp="1584452374759" />
-    <state width="1860" height="294" key="GridCell.Tab.0.center" timestamp="1584452374759">
+    <state width="1860" height="294" key="GridCell.Tab.0.bottom/0.0.1920.1040/-1920.1.1920.1040@0.0.1920.1040" timestamp="1584537517813" />
+    <state width="1860" height="294" key="GridCell.Tab.0.center" timestamp="1584537517813">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1860" height="294" key="GridCell.Tab.0.center/0.0.1920.1040/-1920.1.1920.1040@0.0.1920.1040" timestamp="1584452374759" />
-    <state width="1860" height="294" key="GridCell.Tab.0.left" timestamp="1584452374759">
+    <state width="1860" height="294" key="GridCell.Tab.0.center/0.0.1920.1040/-1920.1.1920.1040@0.0.1920.1040" timestamp="1584537517813" />
+    <state width="1860" height="294" key="GridCell.Tab.0.left" timestamp="1584537517813">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1860" height="294" key="GridCell.Tab.0.left/0.0.1920.1040/-1920.1.1920.1040@0.0.1920.1040" timestamp="1584452374759" />
-    <state width="1860" height="294" key="GridCell.Tab.0.right" timestamp="1584452374759">
+    <state width="1860" height="294" key="GridCell.Tab.0.left/0.0.1920.1040/-1920.1.1920.1040@0.0.1920.1040" timestamp="1584537517813" />
+    <state width="1860" height="294" key="GridCell.Tab.0.right" timestamp="1584537517813">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1860" height="294" key="GridCell.Tab.0.right/0.0.1920.1040/-1920.1.1920.1040@0.0.1920.1040" timestamp="1584452374759" />
+    <state width="1860" height="294" key="GridCell.Tab.0.right/0.0.1920.1040/-1920.1.1920.1040@0.0.1920.1040" timestamp="1584537517813" />
     <state width="1860" height="344" key="GridCell.Tab.1.bottom" timestamp="1584437786894">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -232,10 +236,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="659" y="108" key="SettingsEditor/0.0.1920.1040/-1920.1.1920.1040@0.0.1920.1040" timestamp="1584429615497" />
-    <state x="631" y="328" key="com.intellij.ide.util.TipDialog" timestamp="1584437930110">
+    <state x="631" y="328" key="com.intellij.ide.util.TipDialog" timestamp="1584520948367">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="631" y="328" key="com.intellij.ide.util.TipDialog/0.0.1920.1040/-1920.1.1920.1040@0.0.1920.1040" timestamp="1584437930110" />
+    <state x="631" y="328" key="com.intellij.ide.util.TipDialog/0.0.1920.1040/-1920.1.1920.1040@0.0.1920.1040" timestamp="1584520948367" />
     <state x="624" y="242" key="run.anything.popup" timestamp="1584340897487">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>

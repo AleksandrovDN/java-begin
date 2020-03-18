@@ -2,12 +2,13 @@ package ru.stqa.pft.sandbox;
 
 public class Point {
 
-    public static void main(String[] args);
+     int w = 7;
+     int m = 9;
 
-    public static double distance(Point p1, Point p2);
+    double as = (m * w);
+    //double as = 63;
+    double t = Math.sqrt(as);
 
 
+    }
 
-
-    
-}
