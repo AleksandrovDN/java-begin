@@ -76,7 +76,14 @@
       <recent name="E:\Devel\java-begin\sandbox\src" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Testosiym">
+  <component name="RunManager" selected="Application.Report_mac">
+    <configuration name="ExcelStarter" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ExcelStarter" />
+      <module name="java-begin" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="MyFirstProgram" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ru.stqa.pft.sandbox.MyFirstProgram" />
       <module name="sandbox.main" />
@@ -90,28 +97,9 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Test_Point" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ru.stqa.pft.sandbox.Test_Point" />
-      <module name="sandbox.test" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="ru.stqa.pft.sandbox.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Testosiym" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ru.stqa.pft.sandbox.Testosiym" />
-      <module name="sandbox.main" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="ru.stqa.pft.sandbox.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
+    <configuration name="Report_mac" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Report_mac" />
+      <module name="java-begin" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -158,11 +146,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Report_mac" />
+        <item itemvalue="Application.ExcelStarter" />
         <item itemvalue="Gradle.SquareTests" />
         <item itemvalue="Application.MyFirstProgram" />
         <item itemvalue="Gradle.Test_Point" />
-        <item itemvalue="Application.Testosiym" />
-        <item itemvalue="Application.Test_Point" />
       </list>
     </recent_temporary>
   </component>
@@ -200,22 +188,22 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="748" y="232" key="FileChooserDialogImpl/0.0.1920.1040/-1920.1.1920.1040@0.0.1920.1040" timestamp="1584340814423" />
-    <state width="1860" height="294" key="GridCell.Tab.0.bottom" timestamp="1584540843848">
+    <state width="1860" height="294" key="GridCell.Tab.0.bottom" timestamp="1584621713121">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1860" height="294" key="GridCell.Tab.0.bottom/0.0.1920.1040/-1920.1.1920.1040@0.0.1920.1040" timestamp="1584540843848" />
-    <state width="1860" height="294" key="GridCell.Tab.0.center" timestamp="1584540843848">
+    <state width="1860" height="294" key="GridCell.Tab.0.bottom/0.0.1920.1040/-1920.1.1920.1040@0.0.1920.1040" timestamp="1584621713121" />
+    <state width="1860" height="294" key="GridCell.Tab.0.center" timestamp="1584621713121">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1860" height="294" key="GridCell.Tab.0.center/0.0.1920.1040/-1920.1.1920.1040@0.0.1920.1040" timestamp="1584540843848" />
-    <state width="1860" height="294" key="GridCell.Tab.0.left" timestamp="1584540843847">
+    <state width="1860" height="294" key="GridCell.Tab.0.center/0.0.1920.1040/-1920.1.1920.1040@0.0.1920.1040" timestamp="1584621713121" />
+    <state width="1860" height="294" key="GridCell.Tab.0.left" timestamp="1584621713121">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1860" height="294" key="GridCell.Tab.0.left/0.0.1920.1040/-1920.1.1920.1040@0.0.1920.1040" timestamp="1584540843847" />
-    <state width="1860" height="294" key="GridCell.Tab.0.right" timestamp="1584540843848">
+    <state width="1860" height="294" key="GridCell.Tab.0.left/0.0.1920.1040/-1920.1.1920.1040@0.0.1920.1040" timestamp="1584621713121" />
+    <state width="1860" height="294" key="GridCell.Tab.0.right" timestamp="1584621713121">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1860" height="294" key="GridCell.Tab.0.right/0.0.1920.1040/-1920.1.1920.1040@0.0.1920.1040" timestamp="1584540843848" />
+    <state width="1860" height="294" key="GridCell.Tab.0.right/0.0.1920.1040/-1920.1.1920.1040@0.0.1920.1040" timestamp="1584621713121" />
     <state width="1860" height="344" key="GridCell.Tab.1.bottom" timestamp="1584437786894">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -236,10 +224,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="659" y="108" key="SettingsEditor/0.0.1920.1040/-1920.1.1920.1040@0.0.1920.1040" timestamp="1584429615497" />
-    <state x="631" y="328" key="com.intellij.ide.util.TipDialog" timestamp="1584520948367">
+    <state x="631" y="328" key="com.intellij.ide.util.TipDialog" timestamp="1584601765685">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="631" y="328" key="com.intellij.ide.util.TipDialog/0.0.1920.1040/-1920.1.1920.1040@0.0.1920.1040" timestamp="1584520948367" />
+    <state x="631" y="328" key="com.intellij.ide.util.TipDialog/0.0.1920.1040/-1920.1.1920.1040@0.0.1920.1040" timestamp="1584601765685" />
     <state x="624" y="242" key="run.anything.popup" timestamp="1584340897487">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
