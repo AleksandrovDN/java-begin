@@ -66,20 +66,34 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/sandbox/build.gradle" />
-    <property name="project.structure.last.edited" value="Facets" />
+    <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.20574713" />
     <property name="settings.editor.selected.configurable" value="preferences.keymap" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\Devel\java-begin\Client\MWBankLib_хз\META-INF" />
       <recent name="E:\Devel\java-begin\sandbox\src" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Report_mac">
+  <component name="RunManager" selected="Application.Main">
     <configuration name="ExcelStarter" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ExcelStarter" />
       <module name="java-begin" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Course.Main" />
+      <module name="Lessons" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Course.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -124,33 +138,13 @@
       <GradleScriptDebugEnabled>false</GradleScriptDebugEnabled>
       <method v="2" />
     </configuration>
-    <configuration name="Test_Point" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
-      <ExternalSystemSettings>
-        <option name="executionName" />
-        <option name="externalProjectPath" value="$PROJECT_DIR$/sandbox" />
-        <option name="externalSystemIdString" value="GRADLE" />
-        <option name="scriptParameters" value="--tests &quot;ru.stqa.pft.sandbox.Test_Point&quot;" />
-        <option name="taskDescriptions">
-          <list />
-        </option>
-        <option name="taskNames">
-          <list>
-            <option value=":cleanTest" />
-            <option value=":test" />
-          </list>
-        </option>
-        <option name="vmOptions" />
-      </ExternalSystemSettings>
-      <GradleScriptDebugEnabled>false</GradleScriptDebugEnabled>
-      <method v="2" />
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Main" />
         <item itemvalue="Application.Report_mac" />
         <item itemvalue="Application.ExcelStarter" />
         <item itemvalue="Gradle.SquareTests" />
         <item itemvalue="Application.MyFirstProgram" />
-        <item itemvalue="Gradle.Test_Point" />
       </list>
     </recent_temporary>
   </component>
@@ -168,10 +162,10 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
-    <state x="560" y="181" key="#Project_Structure" timestamp="1584108652249">
+    <state x="560" y="181" key="#Project_Structure" timestamp="1584712497670">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="560" y="181" key="#Project_Structure/0.0.1920.1040/-1920.1.1920.1040@0.0.1920.1040" timestamp="1584108652249" />
+    <state x="560" y="181" key="#Project_Structure/0.0.1920.1040/-1920.1.1920.1040@0.0.1920.1040" timestamp="1584712497670" />
     <state x="422" y="178" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1584109814825">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -192,22 +186,22 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="748" y="232" key="FileChooserDialogImpl/0.0.1920.1040/-1920.1.1920.1040@0.0.1920.1040" timestamp="1584340814423" />
-    <state width="1860" height="294" key="GridCell.Tab.0.bottom" timestamp="1584628204525">
+    <state width="1877" height="296" key="GridCell.Tab.0.bottom" timestamp="1584714348384">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1860" height="294" key="GridCell.Tab.0.bottom/0.0.1920.1040/-1920.1.1920.1040@0.0.1920.1040" timestamp="1584628204525" />
-    <state width="1860" height="294" key="GridCell.Tab.0.center" timestamp="1584628204525">
+    <state width="1877" height="296" key="GridCell.Tab.0.bottom/0.0.1920.1040/-1920.1.1920.1040@0.0.1920.1040" timestamp="1584714348384" />
+    <state width="1877" height="296" key="GridCell.Tab.0.center" timestamp="1584714348384">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1860" height="294" key="GridCell.Tab.0.center/0.0.1920.1040/-1920.1.1920.1040@0.0.1920.1040" timestamp="1584628204525" />
-    <state width="1860" height="294" key="GridCell.Tab.0.left" timestamp="1584628204525">
+    <state width="1877" height="296" key="GridCell.Tab.0.center/0.0.1920.1040/-1920.1.1920.1040@0.0.1920.1040" timestamp="1584714348384" />
+    <state width="1877" height="296" key="GridCell.Tab.0.left" timestamp="1584714348384">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1860" height="294" key="GridCell.Tab.0.left/0.0.1920.1040/-1920.1.1920.1040@0.0.1920.1040" timestamp="1584628204525" />
-    <state width="1860" height="294" key="GridCell.Tab.0.right" timestamp="1584628204525">
+    <state width="1877" height="296" key="GridCell.Tab.0.left/0.0.1920.1040/-1920.1.1920.1040@0.0.1920.1040" timestamp="1584714348384" />
+    <state width="1877" height="296" key="GridCell.Tab.0.right" timestamp="1584714348384">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1860" height="294" key="GridCell.Tab.0.right/0.0.1920.1040/-1920.1.1920.1040@0.0.1920.1040" timestamp="1584628204525" />
+    <state width="1877" height="296" key="GridCell.Tab.0.right/0.0.1920.1040/-1920.1.1920.1040@0.0.1920.1040" timestamp="1584714348384" />
     <state width="1860" height="344" key="GridCell.Tab.1.bottom" timestamp="1584437786894">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -232,6 +226,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="631" y="328" key="com.intellij.ide.util.TipDialog/0.0.1920.1040/-1920.1.1920.1040@0.0.1920.1040" timestamp="1584681318036" />
+    <state x="342" y="244" key="new project wizard" timestamp="1584712488652">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="342" y="244" key="new project wizard/0.0.1920.1040/-1920.1.1920.1040@0.0.1920.1040" timestamp="1584712488652" />
     <state x="624" y="242" key="run.anything.popup" timestamp="1584340897487">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
