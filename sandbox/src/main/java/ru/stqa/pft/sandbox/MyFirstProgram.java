@@ -22,7 +22,7 @@ public class MyFirstProgram {
             }
 
     //public static void hello(String somebody) {
-      //  System.out.println("Preved suka" + somebody + "!");
+      //  System.out.println("Preved ka" + somebody + "!");
 
     //}
 

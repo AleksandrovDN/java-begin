@@ -11,7 +11,7 @@ public class Report_mac {
             {
                 byte[] buffer = new byte[fin.available()];
                 // считываем буфер
-                fin.read(buffer, 0, buffer.length);
+
                 // записываем из буфера в файл
                 fos.write(buffer, 0, buffer.length);
             }
